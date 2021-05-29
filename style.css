@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to left, #c31432, #240b36);
+}
+
+.heading{
+    font-size:23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 4px 5px 5px grey;
+    background-color: #240b36;
+    color: #c31432;
+    border: 6px solid purple;
+    padding:10px;
+    padding-bottom: 10px;
+}
+
+.note{
+    font: bold;
+    color:#c31432;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.copy_right-footer{
+    position: fixed;
+    color: #c31432;
+    bottom:0;
+    font-weight: bold;
+    width: 100%;
+    background: #240b36;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
