@@ -43,7 +43,7 @@ function draw(){
 
     fill("pink");
     stroke("pink");
-    text(font, noseX, noseY);
+    text("Siddharth", noseX, noseY);
     textSize(difference);
 }
 
