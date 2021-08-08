@@ -44,7 +44,7 @@ input[type=text]:focus{
 canvas{
     box-shadow:-5px 7px 5px cyan;
     border: 2px solid blue;
-    margin-top: 140px;
+    margin-top: 160px;
 }
 
 .copy_right_footer{
